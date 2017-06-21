@@ -1,2 +1,8 @@
-# scripts
-Installation/Usage Scripts for different Tasks
+# Scripts
+Installation/Usage scripts for different Tasks
+
+To use the scripts, go (cd) to your desired folder and run:
+
+bash script_name.sh
+
+where script_name is the filename of the script
